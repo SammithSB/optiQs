@@ -1,4 +1,4 @@
-# quanta
+
 A python library simulating optical circuits.
 
 # ***stokes formalism***
@@ -21,3 +21,15 @@ p : degree of polarization
 Stokes vector is given by: 
 
 S = [S0,S1,S2,S3]
+
+Apart from getting output for specific values there are four common states which are horizontally polarized, vertically polarized, polarized at 45 and -45 degrees.
+
+***Example code***
+
+```
+import stokes_formalism from qwanta
+print(stokes_formalism.diagonal_positive()) # polarized at 45 degrees
+print(stokes_formalism.diagonal_negative()) # polarized at 45 degrees
+print(stokes_formalism.horizontal()) # horizontally polarized
+print(stokes_formalism.vertical()) # vertically polarized
+```

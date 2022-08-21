@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-quanta/__init.py
-quanta/stokes_formalism.py
-quanta.egg-info/PKG-INFO
-quanta.egg-info/SOURCES.txt
-quanta.egg-info/dependency_links.txt
-quanta.egg-info/top_level.txt

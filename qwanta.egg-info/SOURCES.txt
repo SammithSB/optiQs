@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-qwanta/__init.py
-qwanta/stokes_formalism.py
-qwanta.egg-info/PKG-INFO
-qwanta.egg-info/SOURCES.txt
-qwanta.egg-info/dependency_links.txt
-qwanta.egg-info/top_level.txt
